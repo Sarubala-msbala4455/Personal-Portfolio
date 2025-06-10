@@ -12,5 +12,4 @@
 - Interactive elements built with JavaScript
 - Clean and modern aesthetic
 
-Click Here To Visit : <a href="https://sarubala-msbala4455.github.io/PRODIGY_WD_04/
-">Personal Portfolio</a>
+Click Here To Visit : <a href="https://sarubala-msbala4455.github.io/Personal-Portfolio/">Personal Portfolio</a>
